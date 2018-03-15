@@ -4,4 +4,6 @@ const b = 'learn'
 
 const c = b + a
 
-console.log(c)
+console.log(c);
+
+const d = 'git status'

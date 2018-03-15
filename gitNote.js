@@ -8,7 +8,7 @@ git status
 
 git diff
 
-git diff HEAD -- some.js
+git diff HEAD -- learn.js
 
 git log
 
@@ -18,6 +18,7 @@ git reset --hard commit_id
 
 git reflog  查看命令历史
 
+git checkout -- learn.js
 
 
 */

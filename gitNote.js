@@ -20,5 +20,16 @@ git reflog  查看命令历史
 
 git checkout -- learn.js
 
+git rm learn.js
+
+*/
+
+/*
+
+pwd  查看当前工作路径
+
+cat learn.js  查看该文件内容
+
+rm learn.js   删除该文件
 
 */

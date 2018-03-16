@@ -19,5 +19,5 @@ const branch = 'master branch'
 const branchName = 'master'
 
 function add(a,b) {
-	return a + b
+	return a - b
 }

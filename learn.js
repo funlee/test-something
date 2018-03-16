@@ -18,10 +18,6 @@ const branch = 'master branch'
 
 const branchName = 'master'
 
-function fixBug(a) {
-	return a--
-}
-
-function bug(str) {
-	console.log(str)
+function add(a,b) {
+	return a + b
 }

@@ -25,3 +25,7 @@ function add(a,b) {
 function getName() {
 	return this.name
 }
+
+function addTag(){
+	//
+}

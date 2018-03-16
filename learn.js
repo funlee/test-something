@@ -17,3 +17,7 @@ const merge = 'dev'
 const branch = 'master branch'
 
 const branchName = 'master'
+
+function fixBug(a) {
+	return a++
+}

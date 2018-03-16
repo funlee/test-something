@@ -19,5 +19,9 @@ const branch = 'master branch'
 const branchName = 'master'
 
 function fixBug(a) {
-	return a++
+	return a--
+}
+
+function bug(str) {
+	console.log(str)
 }
